@@ -61,7 +61,7 @@ cd eurekaserver
 ## 🟢 Microservicio 1 — CURSOS (Generado con Skills/IA)
 
 ### ¿Qué es un Skill?
-Un **skill** es una herramienta de inteligencia artificial que genera código automáticamente a partir de instrucciones en lenguaje natural. En este caso se utilizó **Claude AI** como skill para generar toda la arquitectura del microservicio: entidad, DTO, repositorio, servicio y controlador con todos sus endpoints.
+Para este proyecto, se define un skill como una herramienta de inteligencia artificial capaz de generar código fuente de manera automática mediante instrucciones en lenguaje natural. En el desarrollo del primer microservicio, se utilizó Antigravity como el skill encargado de producir toda la arquitectura base, incluyendo la creación de entidades, DTOs, repositorios, servicios y el controlador con todos sus respectivos endpoints.
 
 **Ventajas del uso de Skills:**
 - Generación rápida de código boilerplate
